@@ -5,7 +5,7 @@ metadata:
   namespace: dev-team
 spec:
   interval: 1m
-  url: https://github.com/clastix/flux2-capsule-multi-tenancy.git
+  url: https://github.com/maxgio92/flux2-capsule-multi-tenancy.git
   ref:
     branch: dev-team
 ---

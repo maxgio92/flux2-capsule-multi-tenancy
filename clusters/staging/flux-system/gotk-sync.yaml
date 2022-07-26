@@ -11,7 +11,7 @@ spec:
     branch: main
   secretRef:
     name: flux-system
-  url: ssh://git@github.com/clastix/flux2-capsule-multi-tenancy
+  url: ssh://git@github.com/maxgio92/flux2-capsule-multi-tenancy
 ---
 apiVersion: kustomize.toolkit.fluxcd.io/v1beta2
 kind: Kustomization
